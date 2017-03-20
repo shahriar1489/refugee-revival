@@ -1,0 +1,16 @@
+body{
+
+  background-image: url("https://aafguk.files.wordpress.com/2015/10/syrian-refugees-landing_bw.jpg");
+  background-repeat: none;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 100%;
+/*
+  opacity: 0.6;
+*/
+}
+
+nav{
+  /*color: #00802b;*/
+  background-color: black; 
+}
